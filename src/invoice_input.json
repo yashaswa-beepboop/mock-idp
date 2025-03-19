@@ -1,0 +1,63 @@
+{
+  "moc_data": {
+    "page_image_url": ["https://d32ae8nnp4aw7x.cloudfront.net/document-vault/e4554e6d-1f6a-4afa-9d4d-822730f50b66/document/v1/"],
+    "invoice_date": "2025-03-04",
+    "supplier_name": "Matrix INC",
+    "supplier_address": "123 Supplier Street",
+    "supplier_city": "New York",
+    "supplier_state": "NY",
+    "supplier_country": "USA",
+    "supplier_postal_code": "10001",
+    "receiver_name": "John Doe",
+    "receiver_city": "Los Angeles",
+    "receiver_state": "CA",
+    "receiver_country": "USA",
+    "receiver_postal_code": "90001",
+    "supplier_po_box": "PO Box 456",
+    "po_id": "GCN25R1W",
+    "payment_term": "NET 30",
+    "due_date": "2025-03-04",
+    "currency": "USD",
+    "net_amount": "515.0",
+    "total_tax_amount": "51.5",
+    "discount_amount": "51.5",
+    "discount_rate": "10",
+    "total_amount_due": "515.0",
+    "doc_id": "O5NARKY",
+    "org_id": "JIVE6XKP",
+    "processed_at": "1741068275"
+  },
+  "line_items": [
+    {
+      "name": "ION",
+      "description": "NEW IPHONE",
+      "quantity": 10,
+      "currency": "USD",
+      "unit_price": 15,
+      "unit_of_measurement": "each",
+      "net_amount": 150,
+      "gross_amount": 165,
+      "purchase_order": "POQOXW7RPW",
+      "discount_amount": 15,
+      "discount_rate": 10,
+      "total_tax_amount": 15
+    },
+    {
+      "name": "ION2",
+      "description": "OLD IPHONE",
+      "quantity": 10,
+      "currency": "USD",
+      "unit_price": 15,
+      "unit_of_measurement": "each",
+      "net_amount": 150,
+      "gross_amount": 165,
+      "purchase_order": "POQOXW7RPW",
+      "discount_amount": 15,
+      "discount_rate": 10,
+      "total_tax_amount": 15
+    }
+  ],
+  "freight_charges": 0,
+  "handling_charges": 0,
+  "shipping_charges": 0
+}
